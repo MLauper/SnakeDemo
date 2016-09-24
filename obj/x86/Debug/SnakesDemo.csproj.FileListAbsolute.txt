@@ -18,3 +18,13 @@ z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug
 z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\Form1.resources
 z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.Properties.Resources.resources
 z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.csproj.GenerateResource.Cache
+C:\code\src\github.com\MLauper\SnakesDemo\bin\SnakesDemo.exe.config
+C:\code\src\github.com\MLauper\SnakesDemo\obj\x86\Debug\SnakesDemo.exe
+C:\code\src\github.com\MLauper\SnakesDemo\obj\x86\Debug\SnakesDemo.pdb
+C:\code\src\github.com\MLauper\SnakesDemo\bin\SnakesDemo.exe
+C:\code\src\github.com\MLauper\SnakesDemo\bin\SnakesDemo.pdb
+C:\code\src\github.com\MLauper\SnakesDemo\bin\AForge.Math.dll
+C:\code\src\github.com\MLauper\SnakesDemo\obj\x86\Debug\SnakesDemo.csprojResolveAssemblyReference.cache
+C:\code\src\github.com\MLauper\SnakesDemo\obj\x86\Debug\Form1.resources
+C:\code\src\github.com\MLauper\SnakesDemo\obj\x86\Debug\SnakesDemo.Properties.Resources.resources
+C:\code\src\github.com\MLauper\SnakesDemo\obj\x86\Debug\SnakesDemo.csproj.GenerateResource.Cache
