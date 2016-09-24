@@ -1,0 +1,20 @@
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\bin\SnakesDemo.exe.config
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\bin\SnakesDemo.exe
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\bin\SnakesDemo.pdb
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\bin\AForge.Math.dll
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.csprojResolveAssemblyReference.cache
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\Form1.resources
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.Properties.Resources.resources
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.csproj.GenerateResource.Cache
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.exe
+E:\Dropbox\BFH\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.pdb
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\bin\SnakesDemo.exe.config
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.exe
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.pdb
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\bin\SnakesDemo.exe
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\bin\SnakesDemo.pdb
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\bin\AForge.Math.dll
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.csprojResolveAssemblyReference.cache
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\Form1.resources
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.Properties.Resources.resources
+z:\Documents\Dropbox\BFH (read only)\CPVR2-CP\Exercises\SnakesDemo\obj\x86\Debug\SnakesDemo.csproj.GenerateResource.Cache
