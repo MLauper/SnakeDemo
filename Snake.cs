@@ -278,6 +278,7 @@ class Snake
          
          // Build the image force vector
          // bmp.GetPixel(x, y).R retrieves the gray value (0-255) at pos. x,y
+         // TODO: Is it really the gray value? Documentation notes: Gets the red component value
          p.F_img.x = bmp.GetPixel(x+1, y).R - bmp.GetPixel(x-1, y).R;
          p.F_img.y = bmp.GetPixel(x, y+1).R - bmp.GetPixel(x, y-1).R;
 
