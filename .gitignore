@@ -1,3 +1,6 @@
-﻿bin/
+﻿!/bin/AForge.dll
+!/bin/AForge.Imaging.dll
+!/bin/AForge.Math.dll
+bin/
 obj/
 .vs/
