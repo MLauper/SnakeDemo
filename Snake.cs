@@ -243,7 +243,11 @@ class Snake
          ///////////////////
 
          // Calculate the curvature equalization force vector
-         //p.F_curv = ???
+         vNext.Normalize();
+         vPrev.Normalize();
+         Vec2F vCurv = vNext + vPrev;
+         vCurv.Normalize();
+         p.F_curv = vCurv;
 
          // Scale the force vector
          p.F_curv *= (float)frm.numBeta.Value * C_CURV;
@@ -257,7 +261,7 @@ class Snake
          /////////////////////
 
          // Calculate the outward pointing balloon expansion force vector
-         //p.F_ball = ???;
+         p.F_ball = -(vNext + vPrev);
 
          // Scale the force vector
          p.F_ball *= (float)frm.numDelta.Value * C_BALL;

@@ -368,6 +368,8 @@ public class Vec2F
       float length = Length();
       if (length == 0)
       {
+            //TODO: Added return statement to fix divide by zero error... Make it proper...
+            return;
          throw new DivideByZeroException("Trying to normalize a vector with length of zero.");
       }
 
